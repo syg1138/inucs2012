@@ -1,3 +1,3 @@
 # inucs2012
 
-# 스마트 알람 프로젝트 >_<
+# Smart Alarm Project >_<
